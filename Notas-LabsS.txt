@@ -1,0 +1,41 @@
+Semana 2,3,5,6,8,9,10 P
+Semana 1,7 TP
+Semana 6,11 AIL
+Semana 4 Feedback
+
+T1 Coeficiente de Viscosidade da Água - Lei de Poiseuille
+
+T2 Ressonâncias acústicas em tubo / Radiacão Térmica
+
+T3 Intensidade da luz vs distancia e atenuacao de filtros / Estudo da inducao magnetica
+
+T4 Cabo coaxial / Barra encastrada e Pendulo de torção
+
+Resultados sao totais do grupo
+
+15% -> Desempenho e respetiva evolução no laboratório
+25% -> 2 Registos (1 Grupo + 1 Individual) 
+
+20% - >
+30% - > AIL
+10% - > Questões
+
+(AC E AE - Nota Mínima 8 valores em 20)
+
+1 Semana para Registo e 2 Semanas p/Relatório
+
+30% de redução se o relatorio for entregado com 1 semana de atraso.
+
+G2 T2 (Feedback) T3 Registo de Grupo + Registo Individual ou Relatório T4 Relatório de uma experiência + Registo Individual da outra
+
+
+PREPARAÇÃO DO TRABALHOX1
+
+CONFIRMAR TURNITIN
+
+
+
+4 Grupos; (EU / NUNO / HELENA / PIPI)
+8 Subgrupos;
+
+Python / SciDavis / Excel / Origin
